@@ -1,0 +1,5 @@
+# OAuth Github Secret
+#
+#
+DRONE_GITHUB_CLIENT=#your_github_client
+DRONE_GITHUB_SECRET=#your_github_secret
